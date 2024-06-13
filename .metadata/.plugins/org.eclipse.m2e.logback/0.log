@@ -1,1 +1,37 @@
 2024-06-13 18:50:11,723 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-06-13 18:53:09,335 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.andrey:SistemaDeVendaIFSP:0.0.1-SNAPSHOT @ C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\pom.xml.
+2024-06-13 18:53:10,543 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SistemaDeVendaIFSP/src/main/java
+2024-06-13 18:53:10,544 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SistemaDeVendaIFSP/src/main/resources
+2024-06-13 18:53:10,549 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SistemaDeVendaIFSP/src/main/resources
+2024-06-13 18:53:10,552 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SistemaDeVendaIFSP/src/test/java
+2024-06-13 18:53:10,554 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SistemaDeVendaIFSP/src/test/resources
+2024-06-13 18:53:11,171 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2024-06-13 18:53:11,174 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-06-13 18:53:11,452 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.andrey:SistemaDeVendaIFSP:0.0.1-SNAPSHOT @ C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\pom.xml.
+2024-06-13 18:53:11,917 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SistemaDeVendaIFSP/src/main/java
+2024-06-13 18:53:11,917 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SistemaDeVendaIFSP/src/main/resources
+2024-06-13 18:53:11,919 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SistemaDeVendaIFSP/src/main/resources
+2024-06-13 18:53:11,920 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SistemaDeVendaIFSP/src/test/java
+2024-06-13 18:53:11,920 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SistemaDeVendaIFSP/src/test/resources
+2024-06-13 18:53:12,582 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2024-06-13 18:53:13,848 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 18:53:13,877 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 18:53:13,883 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 18:57:12,105 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 18:57:12,113 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 18:57:12,117 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:00:23,789 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:00:23,794 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:00:23,796 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:00:29,495 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:00:29,539 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:00:29,542 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:02:11,502 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:02:11,505 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:02:11,508 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:02:18,036 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:02:18,042 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:02:18,044 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:02:22,225 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:02:22,227 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:02:22,230 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
