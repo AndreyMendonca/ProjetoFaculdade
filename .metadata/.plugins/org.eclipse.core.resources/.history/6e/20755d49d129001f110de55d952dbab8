@@ -1,0 +1,5 @@
+package com.andrey.sistema.rest.controller;
+
+public ClientController() {
+	
+}

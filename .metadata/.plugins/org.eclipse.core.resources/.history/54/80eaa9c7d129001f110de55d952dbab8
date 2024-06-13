@@ -1,0 +1,16 @@
+package com.andrey.sistema.domain.service;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.andrey.sistema.domain.entity.Client;
+
+@Service
+public interface ClientService {
+	Client save(Client client);
+	Client findById();
+	List<Client> findAll();
+	Void delete();
+	Client update();
+}

@@ -1,0 +1,5 @@
+package com.andrey.sistema.domain.repository;
+
+public interface ClientRepository {
+
+}
