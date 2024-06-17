@@ -113,3 +113,102 @@
 2024-06-13 19:14:11,759 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-06-13 19:14:11,764 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-06-13 19:14:11,765 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:15:58,725 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:15:58,728 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:15:58,730 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:16:10,917 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:16:10,922 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:16:10,924 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:16:21,546 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:16:21,549 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:16:21,551 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:17:56,036 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:17:56,041 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:17:56,043 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:19:03,009 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:19:03,046 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:19:03,048 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:19:28,998 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:19:29,001 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:19:29,003 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:20:33,381 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:20:33,385 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:20:33,388 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:20:47,587 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:20:47,591 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:20:47,592 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:22:21,699 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:22:21,703 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:22:21,706 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:22:44,155 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:22:44,159 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:22:44,163 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:22:56,930 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:22:56,958 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:22:56,960 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:24:37,555 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:24:37,558 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:24:37,560 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:24:40,677 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:24:40,680 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:24:40,682 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:25:12,134 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:25:12,161 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:25:12,164 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:27:17,706 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:27:17,709 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:27:17,710 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:27:23,961 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:27:23,994 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:27:23,995 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:28:02,478 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:28:02,481 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:28:02,483 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:29:10,681 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:29:10,687 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:29:10,689 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:29:17,185 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:29:17,212 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:29:17,214 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:29:39,259 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:29:39,263 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:29:39,266 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:31:15,145 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:31:15,148 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:31:15,150 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:34:37,755 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:34:37,760 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:34:37,764 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:34:55,951 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:34:55,954 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:34:55,955 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:35:05,973 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:35:05,997 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:35:05,999 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:35:10,948 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:35:10,969 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:35:10,972 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-13 19:35:27,968 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-13 19:35:27,985 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-13 19:35:27,987 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-15 15:08:10,134 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-06-15 15:09:44,283 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.andrey:SistemaDeVendaIFSP:0.0.1-SNAPSHOT @ C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\pom.xml.
+2024-06-15 15:09:45,043 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-15 15:09:45,055 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-15 15:09:45,059 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-15 15:09:46,705 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-15 15:09:46,712 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-15 15:09:46,715 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-15 15:11:08,108 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.andrey:SistemaDeVendaIFSP:0.0.1-SNAPSHOT @ C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\pom.xml.
+2024-06-15 15:11:08,666 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-15 15:11:08,667 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-15 15:11:08,672 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-15 15:15:03,089 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-15 15:15:03,115 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-15 15:15:03,120 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-15 15:18:53,420 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-15 15:18:53,424 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-15 15:18:53,427 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources
+2024-06-15 15:20:36,742 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-15 15:20:36,748 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-15 15:20:36,751 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\andre\Documents\Faculdade\5º SEMESTRE\DEV DE SISTEMA WEB\SistemaDeVenda\SistemaDeVendaIFSP\src\test\resources

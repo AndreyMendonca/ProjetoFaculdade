@@ -1,0 +1,20 @@
+package com.andrey.sistema.rest.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.andrey.sistema.domain.entity.Client;
+import com.andrey.sistema.domain.service.ClientService;
+
+@RestController
+@RequestMapping("/api/clients")
+public class ClientController {
+	@Autowired
+	private ClientService service;
+	
+	public Client save(Client client) {
+		return service.save(client);
+	}
+	
+}

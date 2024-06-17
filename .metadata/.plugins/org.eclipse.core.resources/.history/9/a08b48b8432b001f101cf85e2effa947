@@ -1,0 +1,5 @@
+package com.andrey.sistema.configuration;
+
+public class OpenApiConfig {
+
+}
